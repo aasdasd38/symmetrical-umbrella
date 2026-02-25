@@ -12,6 +12,12 @@ Waiting for messages...
 
 [Message from asd]: hi
 
+-----------[miidle main]---------------
+
+PS C:\Users\asdal\Downloads\New folder> & C:/Users/asdal/AppData/Local/Microsoft/WindowsApps/python3.13.exe "c:/Users/asdal/Downloads/New folder/crypto_utils.py"
+
+PS "middleware"> 
+
 
 -----------[middle main]---------------
 
