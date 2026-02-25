@@ -16,7 +16,7 @@ Waiting for messages...
 
 PS C:\Users\asdal\Downloads\New folder> & C:/Users/asdal/AppData/Local/Microsoft/WindowsApps/python3.13.exe "c:/Users/asdal/Downloads/New folder/crypto_utils.py"
 
-PS "middleware"> 
+bash "middleware"> 
 
 
 -----------[middle main]---------------
